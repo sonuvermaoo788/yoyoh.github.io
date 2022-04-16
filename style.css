@@ -1,0 +1,21 @@
+
+body{ 
+
+   background-color: aqua;}
+   .yoyo{
+      background-color:white;
+   }
+
+ #muku{   margin: 70% ; margin-top: -5.3%; 
+
+}  
+
+ /* #muku{   margin-left: 70% ; margin-top: -5.3%; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}  */
+.pp{
+   border: 2px black;
+}
+.pppp{
+   background-image: url(https://images.pexels.com/photos/443446/pexels-photo-443446.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+}
